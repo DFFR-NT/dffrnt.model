@@ -1,0 +1,17 @@
+{
+	"name": "dffrnt.model",
+	"version": "1.0.0",
+	"description": "A collection of SQL Utilities & MySQL connector",
+	"author": "Arian Johnson <arian.johnson@dffrnt.ca>",
+	"homepage": "https://dffrnt.ca",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/LeShaunJ/dffrnt.model.git"
+	},
+	"main": "index.js",
+	"license": "GNU",
+	"dependencies": {
+		"dffrnt.utils": "git+https://github.com/leshaunj/dffrnt.utils.git",
+		"app-root-path": "*"
+	}
+}
