@@ -12,6 +12,7 @@
 	"license": "GNU",
 	"dependencies": {
 		"dffrnt.utils": "git+https://github.com/leshaunj/dffrnt.utils.git",
-		"app-root-path": "*"
+		"app-root-path": "*",
+		"mysql": "^2.9.0"
 	}
 }
