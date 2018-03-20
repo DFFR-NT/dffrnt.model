@@ -4,10 +4,7 @@
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"author": "Arian Johnson <arian.johnson@icloud.com>",
 	"homepage": "https://dffrnt.ca",
-	"repository" : {
-		"type" : "git",
-		"url" : "https://github.com/LeShaunJ/dffrnt.model.git"
-	},
+	"repository" : "DFFR-NT/dffrnt.model",
 	"main": "index.js",
 	"license": "GNU",
 	"dependencies": {
