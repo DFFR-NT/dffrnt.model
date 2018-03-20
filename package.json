@@ -6,7 +6,7 @@
 	"homepage": "https://dffrnt.ca",
 	"repository" : "DFFR-NT/dffrnt.model",
 	"main": "index.js",
-	"license": "GNU",
+	"license": "MIT",
 	"dependencies": {
 		"dffrnt.utils": "git+https://github.com/leshaunj/dffrnt.utils.git",
 		"app-root-path": "*",
