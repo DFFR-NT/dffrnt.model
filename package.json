@@ -9,7 +9,7 @@
 	"homepage": "https://dffrnt.ca",
 	"repository" : "DFFR-NT/dffrnt.model",
 	"bugs": {
-		"url": "https://github.com/LeShaunJ/dffrnt.utils/issues"
+		"url": "https://github.com/DFFR-NT/dffrnt.model/issues"
 	},
 	"main": "index.js",
 	"license": "MIT",
