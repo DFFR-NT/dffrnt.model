@@ -1,14 +1,20 @@
 {
 	"name": "dffrnt.model",
-	"version": "1.0.0",
+	"version": "1.5.0",
 	"description": "A collection of SQL Utilities & MySQL connector",
-	"author": "Arian Johnson <arian.johnson@icloud.com>",
+	"author": {
+		"name": "Arian Johnson",
+		"email": "arian.johnson@icloud.com"
+	},
 	"homepage": "https://dffrnt.ca",
 	"repository" : "DFFR-NT/dffrnt.model",
+	"bugs": {
+		"url": "https://github.com/LeShaunJ/dffrnt.utils/issues"
+	},
 	"main": "index.js",
 	"license": "MIT",
 	"dependencies": {
-		"dffrnt.utils": "git+https://github.com/leshaunj/dffrnt.utils.git",
+		"dffrnt.utils": "DFFR-NT/dffrnt.utils",
 		"app-root-path": "*",
 		"mysql": "^2.9.0"
 	}
