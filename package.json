@@ -14,7 +14,7 @@
 	"main": "index.js",
 	"license": "MIT",
 	"dependencies": {
-		"dffrnt.utils": "DFFR-NT/dffrnt.utils",
+		"dffrnt.utils": "git+https://github.com/DFFR-NT/dffrnt.utils.git",
 		"app-root-path": "*",
 		"mysql": "^2.9.0"
 	}
