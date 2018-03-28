@@ -6,8 +6,6 @@ A collection of SQL Utilities &amp; MySQL connector.
 > 1. [License](#license)
 
 ---
-
----
 ## License
 
 **MIT License**
