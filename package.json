@@ -18,6 +18,6 @@
 		"mysql": "^2.9.0"
 	},
 	"peerDependencies": {
-		"dffrnt.utils": "DFFR-NT/dffrnt.route"
+		"dffrnt.route": "DFFR-NT/dffrnt.route"
 	}
 }
