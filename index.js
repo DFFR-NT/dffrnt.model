@@ -5,6 +5,6 @@
 // EXPORTS
 
 	module.exports = {
-		SQL: 		require('./lib/sql.js'),
-		Connection: require('./lib/connection.js')
+		SQL: 		require('./lib/sql'),
+		Connection: require('./lib/connection')
 	};
