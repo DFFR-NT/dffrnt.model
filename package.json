@@ -1,13 +1,13 @@
 {
 	"name": "dffrnt.model",
-	"version": "1.5.0",
+	"version": "1.5.1",
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"author": {
 		"name": "Arian Johnson",
 		"email": "arian.johnson@icloud.com"
 	},
-	"homepage": "https://dffrnt.ca",
-	"repository" : "DFFR-NT/dffrnt.model",
+	"homepage": "https://github.com/DFFR-NT/dffrnt.model#readme",
+	"repository": "DFFR-NT/dffrnt.model",
 	"bugs": {
 		"url": "https://github.com/DFFR-NT/dffrnt.model/issues"
 	},
@@ -18,6 +18,6 @@
 		"mysql": "^2.9.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.0"
+		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.1"
 	}
 }
