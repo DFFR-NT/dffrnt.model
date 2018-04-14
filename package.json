@@ -15,7 +15,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"app-root-path": "*",
-		"mysql": "^2.9.0"
+		"mysql": "^2.15.0"
 	},
 	"peerDependencies": {
 		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.1"
