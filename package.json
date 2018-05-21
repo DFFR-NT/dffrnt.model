@@ -1,6 +1,6 @@
 {
 	"name": "dffrnt.model",
-	"version": "1.5.1",
+	"version": "1.5.2",
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"author": {
 		"name": "Arian Johnson",
@@ -18,6 +18,6 @@
 		"mysql": "^2.15.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.1"
+		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.2"
 	}
 }
