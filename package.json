@@ -6,8 +6,11 @@
 		"name": "Arian Johnson",
 		"email": "arian.johnson@icloud.com"
 	},
-	"homepage": "https://github.com/DFFR-NT/dffrnt.model#readme",
-	"repository": "DFFR-NT/dffrnt.model",
+	"homepage": "https://github.com/DFFR-NT/dffrnt.model",
+	"repository": {
+		"type": "git",
+    	"url": "git://github.com/DFFR-NT/dffrnt.model.git"
+	},
 	"bugs": {
 		"url": "https://github.com/DFFR-NT/dffrnt.model/issues"
 	},
