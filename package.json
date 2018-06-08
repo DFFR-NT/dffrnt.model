@@ -9,7 +9,7 @@
 	"homepage": "https://github.com/DFFR-NT/dffrnt.model#readme",
 	"repository": {
 		"type": "git",
-    	"url": "https://github.com/DFFR-NT/dffrnt.model"
+    	"url": "https://github.com/DFFR-NT/dffrnt.model.git"
 	},
 	"bugs": {
 		"url": "https://github.com/DFFR-NT/dffrnt.model/issues"
