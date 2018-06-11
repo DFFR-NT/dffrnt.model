@@ -23,8 +23,8 @@
 		"npm": "<=5.6.0"
 	},
 	"dependencies": {
-		"app-root-path": "*",
-		"mysql": "^2.15.0"
+		"app-root-path": "2.0.1",
+		"mysql": "2.15.0"
 	},
 	"peerDependencies": {
 		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.2"
