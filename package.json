@@ -27,6 +27,6 @@
 		"mysql": "2.15.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "DFFR-NT/dffrnt.route#v1.5.2"
+		"dffrnt.route": "1.5.2"
 	}
 }
