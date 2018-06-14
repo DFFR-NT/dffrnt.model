@@ -2,6 +2,13 @@
 	"name": "dffrnt.model",
 	"version": "1.5.2",
 	"description": "A collection of SQL Utilities & MySQL connector",
+	"keywords": [
+		"api",
+		"sql-utilities",
+		"mysql-connector",
+		"mysql",
+		"dffrnt"
+	],
 	"author": {
 		"name": "Arian Johnson",
 		"email": "arian.johnson@icloud.com"
