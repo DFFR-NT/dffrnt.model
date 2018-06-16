@@ -1,6 +1,6 @@
 {
 	"name": "dffrnt.model",
-	"version": "1.5.3",
+	"version": "1.5.4",
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"keywords": [
 		"api",
@@ -11,9 +11,10 @@
 	],
 	"author": {
 		"name": "Arian Johnson",
-		"email": "arian.johnson@icloud.com"
+		"email": "arian.johnson@icloud.com",
+		"url": "https://github.com/LeShaunJ"
 	},
-	"homepage": "https://github.com/DFFR-NT/dffrnt.model#readme",
+	"homepage": "https://dffrnt.ca",
 	"repository": {
 		"type": "git",
     	"url": "https://github.com/DFFR-NT/dffrnt.model.git"
@@ -23,17 +24,11 @@
 	},
 	"main": "index.js",
 	"license": "MIT",
-	"cpu" : [ "x64" ],
-	"os" : [ "darwin", "linux", "Win32" ],
-	"engines" : { 
-		"node" : "<=8.9.4",
-		"npm": "<=5.6.0"
-	},
 	"dependencies": {
 		"app-root-path": "2.0.1",
 		"mysql": "2.15.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "1.5.3"
+		"dffrnt.route": "1.5.4"
 	}
 }
