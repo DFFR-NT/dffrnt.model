@@ -1,6 +1,6 @@
 {
 	"name": "dffrnt.model",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"keywords": [
 		"api",
@@ -30,6 +30,6 @@
 		"mysql": "2.15.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "3.0.0"
+		"dffrnt.route": "3.0.1"
 	}
 }
