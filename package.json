@@ -1,6 +1,6 @@
 {
 	"name": "dffrnt.model",
-	"version": "3.0.9",
+	"version": "4.0.0",
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"keywords": [
 		"api",
@@ -23,6 +23,7 @@
 		"url": "https://github.com/DFFR-NT/dffrnt.model/issues"
 	},
 	"main": "index.js",
+	"types": "index.d.ts",
 	"engines" : { "node" : ">=8.94 <10.16.3" },
 	"license": "MIT",
 	"dependencies": {
@@ -30,6 +31,9 @@
 		"mysql": "2.15.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "3.0.9"
+		"dffrnt.route": "4.0.0"
+	},
+	"devDependencies": {
+		"@types/mysql": "2.15.0"
 	}
 }
