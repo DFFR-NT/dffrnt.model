@@ -1,6 +1,6 @@
 {
 	"name": "dffrnt.model",
-	"version": "4.0.4",
+	"version": "4.0.5",
 	"description": "A collection of SQL Utilities & MySQL connector",
 	"keywords": [
 		"api",
