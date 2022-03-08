@@ -31,7 +31,7 @@
 		"mysql": "2.15.0"
 	},
 	"peerDependencies": {
-		"dffrnt.route": "4.0.4"
+		"dffrnt.route": "4.0.5"
 	},
 	"devDependencies": {
 		"@types/mysql": "2.15.0"
